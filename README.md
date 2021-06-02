@@ -77,7 +77,7 @@ python -u examples/text-classification/run_xfact_evidence_attention.py \
 	--do_train \ 
 	--do_eval \ 
 	--data_dir $DATA_DIR \ 
-	--max_seq_length 512 \ 
+	--max_seq_length 360 \ 
 	--per_gpu_eval_batch_size 8 \ 
 	--sources all \ 
 	--learning_rate 2e-5 \ 
@@ -100,7 +100,7 @@ python -u examples/text-classification/run_xfact_evidence_attention.py \
 	--do_eval \ 
 	--evaluate_file test.all.tsv \
 	--data_dir $DATA_DIR \ 
-	--max_seq_length 512 \ 
+	--max_seq_length 360 \ 
 	--per_gpu_eval_batch_size 8 \ 
 	--sources all \ 
 	--overwrite_output_dir \ 
