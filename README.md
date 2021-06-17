@@ -7,8 +7,8 @@ Official Code and Data repository of our ACL 2021 paper X-FACT: A New Benchmark 
 
 #### Create a virtual environment and install the provided `transformers` code along with requirements.
 ```
-git clone https://github.com/utahnlp/xfact/
-cd xfact/
+git clone https://github.com/utahnlp/x-fact/
+cd x-fact/
 python3 -m venv env_transformers
 source env_transformers/bin/activate
 cd transformers
