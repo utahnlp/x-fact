@@ -118,14 +118,15 @@ For running evaluation for claim-only model, use the same arguments and only cha
 **Note**: The results reported in the paper are averaged over four random seeds: `[1, 2, 3, 4]`.
 
 ## Citation
-If you use the dataset and, or code from our work, please consider citing
+If you use the dataset and, or code from our work, please cite
 ```
-@misc{gupta2021xfact,
-      title={X-FACT: A New Benchmark Dataset for Multilingual Fact Checking}, 
-      author={Ashim Gupta and Vivek Srikumar},
-      year={2021},
-      eprint={2106.09248},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{gupta2021xfact,
+      title={{X-FACT: A New Benchmark Dataset for Multilingual Fact Checking}}, 
+      author={Gupta, Ashim and Srikumar, Vivek},
+      booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",      
+      month = jul,
+      year = "2021",
+      address = "Online",
+      publisher = "Association for Computational Linguistics",
 }
 ```
