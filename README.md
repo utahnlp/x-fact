@@ -1,5 +1,5 @@
 # x-fact
-Official Code and Data repository of our ACL 2021 paper X-FACT: A New Benchmark Dataset for Multilingual Fact Checking.
+Official Code and Data repository of our ACL 2021 paper [X-FACT: A New Benchmark Dataset for Multilingual Fact Checking](https://arxiv.org/abs/2106.09248).
 
 **Note**: This repository is built on a slightly older fork of the `transformers` repository. We will release the code compatible with the newest `transformers` repo in a few days.
 
@@ -116,3 +116,16 @@ For running evaluation for claim-only model, use the same arguments and only cha
 `examples/text-classification/run_xfact.py`.
 
 **Note**: The results reported in the paper are averaged over four random seeds: `[1, 2, 3, 4]`.
+
+## Citation
+If you use the dataset and, or code from our work, please consider citing
+```
+@misc{gupta2021xfact,
+      title={X-FACT: A New Benchmark Dataset for Multilingual Fact Checking}, 
+      author={Ashim Gupta and Vivek Srikumar},
+      year={2021},
+      eprint={2106.09248},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
