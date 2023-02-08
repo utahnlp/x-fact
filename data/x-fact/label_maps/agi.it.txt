@@ -1,0 +1,3 @@
+controverso	controversial
+falso	false
+vero	true

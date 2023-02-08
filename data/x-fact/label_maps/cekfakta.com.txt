@@ -1,0 +1,37 @@
+2 [false context]	false
+2 [misleading content]	misleading
+2 [manipulated content]	manipulated
+2 [fabricated content]	fabricated
+2 [impostor content]	impostor
+2 [false connection]	false
+11 [manipulated content]	manipulated
+2 [satire]	other/satire
+0 [false context]	false
+3 [clarification]	other/clarification
+0 [misleading content]	misleading
+3 [true]	true
+1 [true]	true
+5 [true]	true
+1 [clarification]	other/clarification
+5 [clarification]	other/clarification
+1 [fabricated content]	fabricated
+12 [false context]	false
+2 [-]	other
+1 [misleading content]	misleading
+11 [true]	true
+3 [-]	other
+1 [-]	other
+12 [-]	other
+5 [-]	other
+13 [true]	true
+15 [clarification]	other/clarification
+1 [satire]	other/satire
+12 [misleading content]	misleading
+0 [true]	true
+2 [clarification]	other/clarification
+5 [false connection]	false
+11 [clarification]	other/clarification
+0 [manipulated content]	manipulated
+3 [fabricated content]	fabricated
+0 [fabricated content]	fabricated
+4 [-]	other

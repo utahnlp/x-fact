@@ -1,0 +1,13 @@
+manipulated media	manipulated
+false	false
+misleading	misleading
+fabricated	fabricated
+manipulated	manipulated
+misplaced context	misplaced
+fabricated news	fabricated
+misleading claim	misleading
+false claim	false
+fabricated content	fabricated
+old and misleading claim	misleading
+misleading content	misleading
+misleaiding	misleading

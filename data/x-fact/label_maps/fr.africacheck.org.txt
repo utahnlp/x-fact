@@ -1,0 +1,7 @@
+non prouvé	unproven
+incorrect	false
+trompeur	misleading
+globalement correct	mostly true
+correct	true
+sous-estimé/exagéré	exaggerated
+faux	false

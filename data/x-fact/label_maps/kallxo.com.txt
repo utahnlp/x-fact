@@ -1,0 +1,7 @@
+rrenë	false
+me kos	mostly false
+e vërtetë	true
+rrenë e kryptë	total lie
+pjesërisht e vërtetë	partly true
+hetimet vazhdojnë	investigations continue
+qëndrim i ndërruar	other/changed attitude

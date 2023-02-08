@@ -1,0 +1,13 @@
+https://apublica.org/checagem/
+falso	false
+impossível provar	complicated
+ta certo, mas peraí	mostly true
+exagerado	exaggerated
+verdadeiro	true
+blefe	false
+não é bem assim	not quite
+distorcido	distorted
+discutível	debatable
+sem contexto	lacks_context
+candidato em crise	other/candidate in crisis
+subestimado	other/underestimated

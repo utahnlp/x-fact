@@ -1,0 +1,4 @@
+false	false
+true	true
+no verdict	no verdict
+half true	half true

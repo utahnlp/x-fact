@@ -1,0 +1,25 @@
+misleading	misleading
+manipulated media	manipulated
+false	false
+misplaced context	misplaced
+manipulated	manipulated
+fabricated	fabricated
+fake	fake
+false/fabricated	false
+viral social media post	other
+misleading & old video	misleading
+false/ fabricated	false
+partially false	partially false
+false connection/ incorrect tittle	false
+misleading/ partially false	partially false
+इससे स्पष्ट होता है कि टीवी 9 मराठी समेत कई न्यूज वेबसाइट्स ने पुराने वीडियो को ही 5 अप्रैल का बताकर शेयर किया है।	misleading
+misleading/partially false	partially false
+सोशल मीडिया मे वायरल हुई वीडियो क्लिप में पीएम मोदी जिन्हें गले लगा रहे हैं वह महाराष्ट्र के डाॅक्टर नहीं बल्कि इजरो के चेयररमैन के सिवन हैं और यह क्लिप भी एक साल पुरानी है। सोशल मीडिया में भ्रामक दावे के साथ इसे शेयर किया जा रहा है।	misleading
+राजस्थान के प्रसिद्ध पर्यटनस्थल बीकानेर में कोरोना वायरस के 196 संदिग्ध मरीज मिलने की जानकारी भ्रामक है। सोशल मीडिया में गलत दावे के साथ यह जानकारी शेयर की जा रही है।	misleading
+इटली में बने चर्च के क्राॅस पर अजीबोगरीब पंछी चढ़ने वाला वीडियो फेक है।  यह पिछले साल अमेरिकी यूट्यूब चैनल द्वारा स्पेशल इफेक्ट के माध्यम से बनाया गया हाॅरर वीडियो है। जिसका इटली से कोई संबंध नहीं है। इसलिए इस्लामिक स्टेट द्वारा ईसाई धर्म पर हमला किए जाने का दावा गलत है।	false
+कोरोना वायरस से बचने के लिए घरेलू नुस्खे बताने वाला सन्देश भ्रामक है। इसे सोशल मीडिया में शेयर कर गलत संदेश दिया जा रहा है।   source	misleading
+misleading content	misleading
+this claim is 'false'.	false
+false connection	false
+अमिताभ बच्चन और नरेंद्र मोदी की पुरानी वीडियो में से कुछ हिस्सा काटकर उसे गलत दावे के साथ वायरल किया गया है। अमिताभ ने मुंबई महापालिका या महाराष्ट्र सरकार को 500 करोड़ का चेक नहीं दिया है और न ही वे हाल में प्रधानमंत्री नरेंद्र मोदी से मिले हैं। पोस्ट के माध्यम से भ्रामकता फैलाई जा रही है।	misleading
+fabricated content	fabricated

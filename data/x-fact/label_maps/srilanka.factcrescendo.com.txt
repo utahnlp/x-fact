@@ -1,0 +1,5 @@
+false	false
+misleading	misleading
+partly false	partly false
+explainer	false
+අ.පො.ස. සාමාන්‍ය පෙළ විභාගයේ දිවයිනේ ප්‍රථම ස්ථානයක් ප්‍රකාශයට පත්කෙරෙන්නේ නැත	other

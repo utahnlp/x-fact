@@ -1,0 +1,9 @@
+falso	false
+outros	other
+distorcido	distorted
+impreciso	inaccurate
+exagerado	exaggerated
+verdadeiro	true
+insustentável	unsustainable
+contraditório	contradictory
+verdaderio	true

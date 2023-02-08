@@ -1,0 +1,10 @@
+https://piaui.folha.uol.com.br/lupa/2015/10/15/entenda-nossos-pinguins/
+verdadeiro	true
+exagerado	exaggerated
+falso	false
+verdadeiro, mas	true, but
+contraditorio	contradictory
+subestimado	underestimated
+ainda é cedo para dizer	too early to say
+insustentável	unsustainable
+de olho	watching

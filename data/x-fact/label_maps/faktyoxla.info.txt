@@ -1,0 +1,7 @@
+true	true
+mostly false	mostly false
+false	false
+lie	false
+manipulated	partly true/misleading
+half true	half true
+mostly true	mostly true

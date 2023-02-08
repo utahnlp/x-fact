@@ -1,0 +1,7 @@
+https://poligrafo.sapo.pt/institucional/artigos/o-nosso-metodo
+impreciso	inaccurate
+verdadeiro	true
+falso	false
+pimenta na língua	pepper on the tongue
+verdadeiro, mas...	true, but
+descontextualizado	out of context

@@ -1,0 +1,17 @@
+https://misbar.com/en/our-methodology
+زائف	false
+fake	fake
+مضلل	deceptive
+انتقائي	selective
+misleading	misleading
+إثارة	commotion
+true	true
+commotion	commotion
+صحيح	true
+selective	selective
+myth	other/myth
+suspicious	suspicious
+ساخر	other/satire
+satire	other/satire
+خرافة	other/myth
+مشكوك فيه	doubtful

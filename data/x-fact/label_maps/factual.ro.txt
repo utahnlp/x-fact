@@ -1,0 +1,9 @@
+Fals	false
+Adevărat	true
+Trunchiat	Distorted
+Parțial Adevărat	partially true
+Imposibil de verificat	unverifiable
+În afara mandatului	other
+Numai cu sprijin instituțional	other
+În mandat	other
+Parțial Fals	partially false

@@ -1,0 +1,7 @@
+https://translate.google.com/translate?sl=sr&tl=en&u=https%3A%2F%2Fwww.istinomer.rs%2F
+neistina	false
+kratke noge	short legs
+poluistina	half true
+skoro neistina	almost untrue
+istina	true
+skoro istina	almost true

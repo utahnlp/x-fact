@@ -1,0 +1,10 @@
+ტყუილი	false
+სიმართლე	true
+ფაქტებით მანიპულირება	manipulated
+მეტწილად მცდარი	mostly false
+მცდარი	false
+რიცხვებით მანიპულირება	manipulated
+პოპულიზმი	other
+მეტწილად სიმართლე	mostly true
+ნახევრად სიმართლე	half true
+ვერდიქტის გარეშე	no verdict

@@ -1,0 +1,5 @@
+false	false
+mostly false	mostly false
+partially true	partially true
+mostly true	mostly true
+true	true

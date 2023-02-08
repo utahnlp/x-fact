@@ -1,0 +1,15 @@
+Engañoso	misleading
+Falso	false
+Verdadero, pero…	true, but
+Verdadero	true
+Insostenible	untenable
+none	other
+Apresurado	maybe true
+Exagerado	exaggerated
+Discutible	debatable
+Incumplida	incomplete
+Incumplida con avances	incomplete
+Cumplida	other/complete
+En proceso, adelantada	in process
+En proceso, demorada	in process
+Inchequeable	uncheckable

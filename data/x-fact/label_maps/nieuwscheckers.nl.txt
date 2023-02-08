@@ -1,0 +1,4 @@
+deels onwaar	partly false
+onwaar	false
+waar	true
+niet te checken	uncheckable

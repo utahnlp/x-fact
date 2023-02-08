@@ -1,0 +1,8 @@
+false	false
+partly_false	partly true/misleading
+completely_false	false
+false_context	partly true/misleading
+missing_context	partly true/misleading
+mostly_false	mostly false
+mostly_true	mostly true
+true	true

@@ -1,0 +1,13 @@
+sebagian benar	partly true
+keliru	false
+sesat	misleading
+tidak terbukti	not proven
+benar	true
+sesat - video kisruh di sydney adalah benar namun pernyataan narasi salah.	misleading
+sesat - informasi ini menggunakan fakta dan data yang benar, namun cara penyampaian atau kesimpulannya keliru serta mengarahkan ke tafsir yang salah.	misleading
+benar - bawaslu boyolali merekomendasikan pemungutan suara ulang.	true
+sesat - benar bahwa anggaran pemilu 2019 meningkat dibandingkan pada 2014 namun penggunaan kotak suara berbahan kardus dilakukan untuk menghemat anggaran dan bukan sebaliknya.	misleading
+sesat - insiden tersebut bukan terkait klaim kewilayahan namun penegakan hukum atas pencurian ikan oleh kapal malaysia.	misleading
+sebagian benar - pernyataan kpk tentang kebocoran anggaran negara sebesar rp 2000 t adalah benar, namun kebocoran anggaran negara ini sudah berlangsung lama.	partly true
+sesat - video ahok marah-marah adalah benar, namun narasinya salah sehingga menyesatkan.	misleading
+sesat - video yang benar namun narasi salah	misleading

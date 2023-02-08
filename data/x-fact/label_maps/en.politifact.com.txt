@@ -1,0 +1,9 @@
+true	true
+mostly false	mostly false
+false	false
+half-true	half true
+mostly true	mostly true
+pants on fire!	false
+full flop	other
+half flip	other
+no flip	other
