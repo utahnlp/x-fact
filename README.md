@@ -1,6 +1,9 @@
 # x-fact
 Official Code and Data repository of our ACL 2021 paper [X-FACT: A New Benchmark Dataset for Multilingual Fact Checking](https://arxiv.org/abs/2106.09248).
 
+## Access Using Huggingface Datasets
+You can access the dataset using the `datasets` library at: [https://huggingface.co/datasets/utahnlp/x-fact](https://huggingface.co/datasets/utahnlp/x-fact)
+
 **Note**: This repository is built on a slightly older fork of the `transformers` repository. We will release the code compatible with the newest `transformers` repo in a few days.
 
 ## 0. Prerequisites: Installation (python 3.6+). 
