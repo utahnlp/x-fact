@@ -1,0 +1,26 @@
+certifi==2024.8.30
+charset-normalizer==3.3.2
+click==8.1.7
+filelock==3.12.2
+idna==3.10
+importlib-metadata==6.7.0
+joblib==1.3.2
+numpy==1.21.6
+packaging==24.0
+protobuf==4.24.4
+regex==2024.4.16
+requests==2.31.0
+sacremoses==0.0.53
+scikit-learn==0.24.2
+scipy==1.7.3
+sentencepiece==0.2.0
+six==1.16.0
+tensorboardX==2.6.2.2
+threadpoolctl==3.1.0
+tokenizers==0.8.1rc1
+torch==1.12.0+cu116
+tqdm==4.66.5
+-e git+https://github.com/utahnlp/x-fact/@2c66762c11f4981c9922dea8e289bad35fcc88b4#egg=transformers&subdirectory=transformers
+typing_extensions==4.7.1
+urllib3==1.26.6
+zipp==3.15.0
